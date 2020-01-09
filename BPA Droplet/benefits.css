@@ -1,0 +1,20 @@
+@-ms-viewport{
+  width: device-width;
+}
+div.b {
+   text-align:center;
+   font-size: 200px;
+   font-family: monospace;
+  
+   }
+
+ul.a {
+  list-style-type:circle;
+  
+}
+
+ul.b {
+  list-style-type:circle;
+  
+}
+
